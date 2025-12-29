@@ -3,7 +3,7 @@
 This project implements the **Module Lattice-based Key Encapsulation Mechanism (ML-KEM)**, as specified in **NIST FIPS 203**. It includes both Public Key Encryption (PKE) and Key Encapsulation Mechanism (KEM) components along with full polynomial arithmetic using Number Theoretic Transform (NTT), and tests for validation.
 
 ---
-<a href="https://youtu.be/fGQhKmk2DYw">
+<a href="https://youtu.be/C580x4zDBfw">
 <img src="./thumbnail.jpg" width="600" height="300" alt="ML-KEM Presentation">
 </a>
 
